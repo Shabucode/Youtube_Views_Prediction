@@ -1,0 +1,4 @@
+Start Time,Duration,Run ID,Name,Source Type,Source Name,User,Status,eval_metric,fit_intercept,max_depth,n_estimators,use_label_encoder,mean_squared_error,r2_score
+2/5/2025 13:42,4.4s,4ea5dd5e9b474f478f1dcb3db762404b,Linear Regression,LOCAL,f:\Be_Amazed_Projects\Task_1\venv\Lib\site-packages\ipykernel_launcher.py,shabn,FINISHED,,TRUE,,,,2.57826E+12,0.781982379
+2/5/2025 13:43,2.8s,ef850bbec2354b9abdd913ffb0c18e57,Random Forest,LOCAL,f:\Be_Amazed_Projects\Task_1\venv\Lib\site-packages\ipykernel_launcher.py,shabn,FINISHED,,,3,30,,2.33461E+12,0.80258481
+2/5/2025 13:43,3.0s,91701424a40f4e34b500ca5e9caf634d,XGBRegressor,LOCAL,f:\Be_Amazed_Projects\Task_1\venv\Lib\site-packages\ipykernel_launcher.py,shabn,FINISHED,logloss,,,,FALSE,3.0593E+12,0.7413054
